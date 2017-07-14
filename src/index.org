@@ -1,0 +1,11 @@
+#+TITLE: Index
+#+AUTHOR: Vlead
+
+* Numerical Approximation
+** [[./introduction-CSE02/introduction-CSE02.org][Introduction]]
+** [[./theory-CSE02/theory-CSE02.org][Theory]]
+** [[./objective-CSE02/objective-CSE02.org][Objective]]
+** [[./manual-CSE02/manual-CSE02.org][Manual]]
+** [[./procedure-CSE02/procedure-CSE02.org][Procedure]]
+** [[./further reading-CSE02/further reading-CSE02.org][Further Reading]]
+** [[./simulation-CSE02/simulation-CSE02.org][Simulation]]
